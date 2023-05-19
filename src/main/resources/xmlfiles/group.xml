@@ -11,7 +11,7 @@
 		</test>
 		<test name="regression">
 			<classes>
-				<class name="com.sevenmartsupermarket.tests.LoginTest">
+				<class name="com.sevenmartsupermarket.tests.LoginTest" >
 					
 				</class>
 			</classes>
